@@ -20,8 +20,6 @@
 - *Healthcare Knowledge:* Medical Coding, Clinical Research, Pharmacy  
 - *Soft Skills:* Problem-Solving, Analytical Thinking, Teamwork  
 
-## 📊 GitHub Stats  
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan-arekar&show_icons=true&theme=radical)  
 
 ## 📌 Profile Visitors  
 ![Visitor Count](https://komarev.com/ghpvc/?username=rohan-arekar&label=Profile%20Views&color=0e75b6&style=flat)  
